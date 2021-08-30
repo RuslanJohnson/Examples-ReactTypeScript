@@ -14,17 +14,3 @@
   border : 2px solid #3b52d8;
   margin : 15px;
 }
-
-.navbar {
-  display         : flex;
-  justify-content : center;
-  align-items     : center;
-  height          : 50px;
-  background-color: #3b52d8;
-}
-
-.navbar>* {
-  color          : #fff;
-  text-decoration: none;
-  margin         : 15px;
-}
